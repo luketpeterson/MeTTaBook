@@ -13,7 +13,7 @@
 
 Build to "shopping list" example. Reorganize this section if appropriate.
 
-* Atoms & asserting links
+* Atoms & Links
 * Matching
 * Unification / Graph Rewriting
 * Types in MeTTa
