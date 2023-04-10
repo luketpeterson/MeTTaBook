@@ -1,3 +1,0 @@
-For executing JS inline, look here for an issue: https://github.com/rust-lang/mdBook/issues/1453
-and here for an example of how it was worked around: https://github.com/md-rehman/js-by-example
-
