@@ -1,0 +1,6 @@
+[book]
+authors = ["Luke Peterson"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Getting Started with MeTTa"
