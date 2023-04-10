@@ -7,4 +7,4 @@
 
 # MeTTa basics
 
-- [Atoms & Links](./01_basics/01_atoms_and_links.md)
+- [Symbols & Expressions](./01_basics/01_symbols_and_expressions.md)
